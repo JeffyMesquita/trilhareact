@@ -22,6 +22,18 @@
 
 }
 
+@media (max-width: 1600px) {
+   html {
+      font-size: 75%;//o mesmo que 12px
+   }
+}
+
+@media (max-width: 1366px) {
+   html {
+      font-size: 81.25%;// o mesmo que 13px
+   }
+}
+
 @media (max-width: 1080px) {
    html {
       font-size: 93.75%;//o mesmo que 15px
